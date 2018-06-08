@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    background-color:red;
+    color: white;
+    font-size: 50px;
+    font-family: cursive;
+    border: 10px solid black;
+    height: 100px;
+    margin-top: -5px;
+}
+
+body {
+    background-color: black;
+    background-image: url(../images/psychic.jpg);
+    background-size: cover;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+    margin-bottom: 40px;
+    background-color: rgba(0.5, 0.0, 0.0, 0.5);
+    
+}
+
+img {
+    
+    width: 80%;
+    height: 360px;
+    margin-left: 120px;
+    border: 2px solid whitesmoke; 
+    float: inherit;
+    
+}
+
